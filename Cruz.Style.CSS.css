@@ -1,0 +1,93 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+    background: #00ccff;
+}
+
+img {
+  padding: 2%;
+  height: 30%;
+  width: 30%;
+}
+
+#header {
+  font-family: Open Sans, sans-serif;
+  font-size: 55px;
+  text-align: center;
+  background: #000000;
+  color: #ffffff;
+}
+
+#b0ss {
+  font-family: Open Sans, sans-serif;
+  font-size: 13px;
+  background-color: black;
+}
+
+#education {
+  font-family: Open Sans, sans-serif;
+	font-size: 20px;
+	color: black;
+	margin-top: 2%;
+	margin-bottom: 2%;
+	margin-left: 2.5%;
+	border-style: solid;
+	border-color: #090808;
+}
+
+#project {
+  font-family: Open Sans, sans-serif;
+	font-size: 20px;
+	color: black;
+	margin-top: 2%;
+	margin-bottom: 2%;
+	margin-left: 2.5%;
+	border-style: solid;
+	border-color: #090808;
+	text-indent: 45px;
+}
+
+#contact {
+  font-family: Open Sans, sans-serif;
+	font-size: 20px;
+	color: black;
+}
+
+#paragraphaboutme {
+  font-family: Open Sans, sans-serif;
+	font-size: 20px;
+	color: black;
+	text-align: left;
+	margin-right: 25%;
+	text-indent: 45px;
+}
+
+#footer {
+  font-family: Open Sans, sans-serif;
+  font-size: 55px;
+  text-align: center;
+  background-color: black;
+  color: #ffffff;
+  position: absolute;
+  width: 100%;
+}
+
+#container {
+	max-width: 1000px;
+	margin: 0 auto;
+	padding: 0 10px;
+	text-align: left;
+}
+
+#link:hover {
+	text-decoration: bold;
+	text-decoration: underline;
+}
+
+#pictures {
+	border-style: solid;
+	border-color: #090808;
+}
